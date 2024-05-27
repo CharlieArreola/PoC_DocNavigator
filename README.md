@@ -6,6 +6,16 @@ A tool to streamline developer workflows by providing efficient navigation and r
 
 The POC will focus on a subset of data, initially applying to one team, and will use public AWS documentation for testing. The tool's main goal is to assist developers with unfamiliar documentation and guide them to further reading as needed.
 
+## Project Structure
+The project structure is inside the folder `Loka Assessment`. It contains the following:
+- **Notebooks:** 
+  - `01: Preprocessing and Embeddings.ipynb`
+  - `02 - Langchain for Retrieval Augmentation.ipynb`
+- **Folders:**
+  - `/CuratedData`: This folder contains the embedding dataframe.
+  - `/RawData`: This folder contains the zip file and the unzipped files.
+
+
 ## Notebook Summaries:
 ### Notebook 01: Preprocessing and Embeddings
 This notebook outlines the process of loading, preprocessing, and embedding text documents using OpenAI's GPT-4 model. Below are the key sections and activities:
