@@ -67,6 +67,9 @@ This notebook demonstrates the use of Langchain for retrieval augmentation by in
 
 ### Prerequisites
 
+Ensure you have the following installed:
+- Python 3.8 or higher
+- Jupyter Notebook or JupyterLab
 
 ### Installation
 
